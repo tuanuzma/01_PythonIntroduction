@@ -1,0 +1,1 @@
+This covers most about python introduction course
